@@ -1,4 +1,4 @@
-<h1>Quiz Game using Python</h1>
+<h1>Random Password Generator using Python</h1>
 
 <h2>Description</h2>
 
